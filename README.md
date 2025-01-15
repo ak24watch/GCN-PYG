@@ -1,5 +1,4 @@
-# experiments-done
- Practice of implementation of GCNconv - paper
+
  # Semi-Supervised Classification with Graph Convolutional Networks (GCN)
 
 This repository provides an implementation of **Graph Convolutional Networks (GCNs)** for semi-supervised classification on graph-structured data, as introduced in the paper:  
